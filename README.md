@@ -6,5 +6,6 @@ Dies ist eine einfache Webanwendung zum Verwalten von Notizen mit Kategorien. Si
 
 ## Live-Demo
 
-[Jetzt ausprobieren](https://notizen-app.onrender.com)
+[Jetzt ausprobieren](https://zulkerr.github.io/notiz_springboot/)
+
 
